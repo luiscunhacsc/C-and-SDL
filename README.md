@@ -49,7 +49,7 @@ Pede-se compreensão a quem prefira um estilo mais formal.
 ## 👨‍💻 Sobre o autor
 
 Luís Simões da Cunha é um apaixonado pela área da **emulação**, considerando-a uma das expressões mais puras do potencial da computação.
-A sua visão parte de um princípio fundamental: **qualquer computador suficientemente versátil pode comportar-se como outro**, um conceito com raízes profundas na **teoria da computação**.
+A sua visão parte de um princípio fundamental: **qualquer computador pode comportar-se como outro**, um conceito com raízes profundas na **teoria da computação**.
 
 > *“Criar um emulador é compreender o espírito da máquina.”*
 
